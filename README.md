@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciphermaster69&label=Profile%20views&color=0e75b6&style=flat" alt="ciphermaster69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ciphermaster69" alt="ciphermaster69" /></a> </p>
-
 - 👨‍💻 All of my projects are available at ["temp/out"]("temp/out")
 
 - 📫 How to reach me **ciphermaster69@gmail.com**
