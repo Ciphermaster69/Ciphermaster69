@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciphermaster69&label=Profile%20views&color=0e75b6&style=flat" alt="ciphermaster69" /> </p>
 
-- 👨‍💻 All of my projects are available at ["temp/out"]("temp/out")
+- 👨‍💻 Currently Working On a Language Translator
 
 - 📫 How to reach me **ciphermaster69@gmail.com**
 
